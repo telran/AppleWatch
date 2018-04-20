@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <plugin
-    id="cordova-plugin-applewatch"
+    id="cordova-plugin-telran-apple-watch"
     version="0.6.0"
     xmlns="http://apache.org/cordova/ns/plugins/1.0">
 
