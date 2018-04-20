@@ -1,0 +1,45 @@
+{
+  "name": "cordova-plugin-telran-apple-watch",
+  "version": "0.11.5",
+  "author": "Edmund Stroh <info@estroh.com> (http://www.estroh.com)",
+  "description": "Cordova / PhoneGap Plugin for the Apple Watch (WatchKit) to allow in memory and lightweight json object message passing over named queues from a Cordova app to Apple Watch (and vice versa).",
+  "cordova": {
+    "id": "cordova-plugin-telran-apple-watch",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telran/cordova-plugin-telran-apple-watch.git"
+  },
+  "keywords": [
+    "cordova",
+    "apple",
+    "watch",
+    "watchkit",
+    "message",
+    "queue",
+    "json",
+    "extension",
+    "darwin",
+    "notification",
+    "glance",
+    "user",
+    "defaults",
+    "nsuserdefaults",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    },
+    {
+      "name": "apple-ios",
+      "version": ">=8.2.0"
+    }
+  ],
+  "license": "MIT"
+}
